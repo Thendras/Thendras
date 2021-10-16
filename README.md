@@ -4,6 +4,8 @@
 
 - Websiteme Göz Atabilirsiniz: https://www.thendradev.cf
 
+- Yedek Hesabımdır. Asıl Hesabım https://github.com/Thendraa
+
 <img src="https://komarev.com/ghpvc/?username=Thendraa&label=Ziyaretçi%20Sayısı&color=131313" alt="Thendraa" /><br>
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <a href="https://twitter.com/haasanerdem" target="_blank">
