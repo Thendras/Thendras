@@ -14,7 +14,7 @@
 <a href="https://steamcommunity.com/id/hasanerdem" target="_blank">
 <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a><br>
 
-<h3>👨🏻‍💻 Kullandığım yazılım dilleri:</h3>
+<h3>👨🏻‍💻 Çoğunlukla Kullandığım yazılım dilleri:</h3>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c42b6d?style=flat-square&logo=javascript&logoColor=white" /> 
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
